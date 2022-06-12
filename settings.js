@@ -10,31 +10,31 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6282210819939']
+global.premium = ['6282210819939']
+global.ownernomer = '6282210819939'
+global.ownername = 'Tam-Store'
+global.botname = 'Tam-Bot'
+global.footer = '© TamStore"
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
-global.author = '2022'
+global.packname = '© TamStore'
+global.author = '1999'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.youtube = ''
+global.ig = 'https://instagram.com'
+global.mygc = ''
+global.myweb = 'https://github.com/yudielite'
+global.email = 'lolicon_nanda@outlook.co.id'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: "Infinity",
 }
 
 //---------( RANDOM IMAGE )---------//
